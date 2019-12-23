@@ -1,3 +1,3 @@
 # Mandalbrot_set.-unity
 
-https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg
+![mandalbrot](https://user-images.githubusercontent.com/48150537/71359500-9c01ee00-25b2-11ea-905b-add1f0752881.jpg)
